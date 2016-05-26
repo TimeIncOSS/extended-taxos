@@ -23,8 +23,5 @@
 	},
 	"suggest": {
 		"wpackagist-plugin/rewrite-testing": "Rewrite Rule Testing"
-	},
-	"autoload": {
-		"files": ["extended-taxos.php"]
 	}
 }
